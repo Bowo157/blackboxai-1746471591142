@@ -1,0 +1,31 @@
+# Core dependencies
+streamlit>=1.28.0
+pandas>=2.0.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+Pillow>=10.0.0
+python-dateutil>=2.8.2
+
+# UI enhancements
+streamlit-lottie>=0.0.5
+streamlit-option-menu>=0.3.2
+streamlit-extras>=0.3.0
+
+# Data handling
+numpy>=1.24.0
+openpyxl>=3.1.0  # For Excel file support
+python-magic>=0.4.27  # For file type detection
+
+# Date and time handling
+pytz>=2023.3
+
+# File handling and validation
+python-magic-bin>=0.4.14  # For file type validation
+pathlib>=1.0.1
+
+# API and networking
+aiohttp>=3.8.5  # For async API calls
+tenacity>=8.2.2  # For retry logic
+
+# Security
+cryptography>=41.0.0  # For secure handling of sensitive data
